@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570659816677",
+    "firebase_url": "https://search-76f61.firebaseio.com",
+    "project_id": "search-76f61",
+    "storage_bucket": "search-76f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570659816677:android:a875161c090cca6038800c",
+        "android_client_info": {
+          "package_name": "com.example.instantsearchbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570659816677-ksved3q46chmfheg94nmiafia7vpqh39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChoMXxUw5nRqpMcHYW0-0-Vf7HPNxjLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570659816677-ksved3q46chmfheg94nmiafia7vpqh39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
